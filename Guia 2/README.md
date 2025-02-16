@@ -1,6 +1,6 @@
 **TRABAJO GUIA 2**
 
-**Integrantes del Trabajo:** John Alexander Castañeda Gordillo y Deisy Fernanda Camacho Vargas
+**Integrantes del Trabajo:**  John Alexander Castañeda Gordillo y Deisy Fernanda Camacho Vargas
 
 **Instrucciones de ejecución**
 1. Descargar el archivo Guia_2_Solución.ipynb
@@ -9,7 +9,7 @@
 4. Cargar dataset en google colab en la opcion Archivos (Subir Archivo)
 5. Ejecutar las celdas de código.
 
-**Objetivo**
+**Objetivo**  
 Por medio de lenguaje Python usando la libreria Pandas se desarrolla cada una de las siguientes partes de la guia:
 
 - **Exploración y Limpieza de Datos**
