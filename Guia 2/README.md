@@ -3,11 +3,11 @@
 **Integrantes del Trabajo:** John Alexander Castañeda Gordillo y Deisy Fernanda Camacho Vargas
 
 **Instrucciones de ejecución**
-*1.* Descargar el archivo Guia_2_Solución.ipynb
-*2.* Descargar el dataset telecom_churn.csv
-*3.* Abrir archivo Guia_2_Solución.ipynb en google colab
-*4.* Cargar dataset en google colab en la opcion Archivos (Subir Archivo)
-*5.* Ejecutar las celdas de código.
+1. Descargar el archivo Guia_2_Solución.ipynb
+2. Descargar el dataset telecom_churn.csv
+3. Abrir archivo Guia_2_Solución.ipynb en google colab
+4. Cargar dataset en google colab en la opcion Archivos (Subir Archivo)
+5. Ejecutar las celdas de código.
 
 **Objetivo**
 Por medio de lenguaje Python usando la libreria Pandas se desarrolla cada una de las siguientes partes de la guia:
