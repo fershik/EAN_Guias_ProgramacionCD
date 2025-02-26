@@ -14,4 +14,4 @@
 **Objetivo** 
 El desarrollo de esta guía busca analizar el comportamiento y tomar decisiones a cerca de los accidentes de transito en nueva York. 
 Inicialmente se realiza limpieza de nuestro data y se procede a analizar la información por medio de gráficas de linea, barras, mapas de calor de la información de la cantidad de accidentes por dias del mes, dias de la semana, distribuido por horas y por distritos. 
-Con estos analisis se pretende llegar a algunas conclusiones para unas futuras tomas de decisiones para disminuir los accidentes en la ciudad. 
+Con estos análisis se pretende llegar a algunas conclusiones para unas futuras tomas de decisiones para disminuir los accidentes en la ciudad. 
